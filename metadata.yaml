@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2543
     wikipedia: http://en.wikipedia.org/wiki/Bernard_de_Mandeville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37650#An-Enquiry-into-the-Causes-of-the-Frequent-Executions-at-Tyburn--1725-
 gutenberg_issued: '2011-10-06'
 gutenberg_type: Text
 identifiers:
