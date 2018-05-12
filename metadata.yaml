@@ -1,0 +1,40 @@
+_repo: An-Enquiry-into-the-Causes-of-the-Frequent-Executions-at-Tyburn--1725-_37650
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Zirker, Malvin R.
+    gutenberg_agent_id: '38973'
+    url: http://www.gutenberg.org/2009/agents/38973
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mandeville, Bernard
+    aliases:
+    - Mandeville, B. (Bernard)
+    - De Mandeville, Bernard
+    birthdate: 1670
+    deathdate: 1733
+    gutenberg_agent_id: '2543'
+    url: http://www.gutenberg.org/2009/agents/2543
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_de_Mandeville
+description: ''
+gutenberg_issued: '2011-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37650'
+  lccn: '64064740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tyburn gallows (London, England)'
+- !lcsh 'Crime -- Great Britain'
+- !lcsh 'Punishment'
+- !lcsh 'Executions and executioners -- Great Britain'
+- !lcsh 'Criminals -- Great Britain'
+- !lcc 'HV'
+title: An Enquiry into the Causes of the Frequent Executions at Tyburn (1725)
+url: http://www.gutenberg.org/ebooks/37650
